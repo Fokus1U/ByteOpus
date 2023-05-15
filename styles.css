@@ -1,0 +1,21 @@
+html{
+    background-color: #F4F3F7 ;
+}
+
+
+.Logo {
+
+    scale: 1.5;
+    
+}
+
+.Hintergrund{
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 200px;
+    padding-bottom: 200px;
+
+    margin-bottom: 200px;
+
+    text-align: center;
+}
